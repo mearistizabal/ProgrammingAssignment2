@@ -5,6 +5,11 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+  m <- NULL
+  set <- solve(x) {
+    x <<- y
+    m <<- NULL
+  }
 }
 
 
